@@ -30,8 +30,7 @@ You heard this house was haunted, but you wanted to check it out for yourself. L
 
 ## Acknowledgments
 
-Theme of the room was inspired by MetalMan3D's [Victorian Interior]
-(https://assetstore.unity.com/detail/3d/environments/historic/victorian-interior-148542)
+Theme of the room was inspired by MetalMan3D's [Victorian Interior](https://assetstore.unity.com/detail/3d/environments/historic/victorian-interior-148542)
 
 Thank you to Emma Bromley for voice acting.
 
