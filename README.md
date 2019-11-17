@@ -33,5 +33,6 @@ You heard this house was haunted, but you wanted to check it out for yourself. L
 Theme of the room was inspired by MetalMan3D's [Victorian Interior]
 (https://assetstore.unity.com/detail/3d/environments/historic/victorian-interior-148542)
 
-Thank you to Emma Bromley for voice acting. 
+Thank you to Emma Bromley for voice acting.
+
 README created using Template from [PurpleBooth](https://github.com/PurpleBooth)
