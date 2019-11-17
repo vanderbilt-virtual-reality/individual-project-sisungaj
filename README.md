@@ -4,6 +4,10 @@ Escape rooms are a form of interactive entertainment based around the thrill of 
 
 ## Getting Started 
 
+This project uses Unity 2019.2.3f1 and Cinemachine 2.3.4
+
+Downloaded assest packages inlcude David Stenfors' [Low Poly FPS Pack - Free (Sample)](https://assetstore.unity.com/detail/3d/props/weapons/low-poly-fps-pack-free-sample-144839)(thud audio), Unity's [Karting Microgame](https://assetstore.unity.com/detail/templates/karting-microgame-150956) (simpletrigger script), [Oculus Intergration 1.42](https://assetstore.unity.com/detail/tools/integration/oculus-integration-82022), Unity's [Standard Assets](https://assetstore.unity.com/detail/essentials/asset-packs/standard-assets-for-unity-2017-3-32351) (physicsMaterials), and MetalMan3D's [Victorian Interior](https://assetstore.unity.com/detail/3d/environments/historic/victorian-interior-148542)
+
 ## Room Logic 
 
 ### Storyline
@@ -30,7 +34,7 @@ You heard this house was haunted, but you wanted to check it out for yourself. L
 
 ## Acknowledgments
 
-Theme of the room was inspired by MetalMan3D's [Victorian Interior](https://assetstore.unity.com/detail/3d/environments/historic/victorian-interior-148542)
+Theme of the room was inspired by MetalMan3D's [Victorian Interior](https://assetstore.unity.com/detail/3d/environments/historic/victorian-interior-148542)Test Scene_2
 
 Thank you to Emma Bromley for voice acting.
 
