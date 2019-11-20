@@ -40,6 +40,8 @@ Theme of the room was inspired by MetalMan3D's [Victorian Interior](https://asse
 
 Thank you to Emma Bromley for voice acting. 
 
+[Screen Capture](https://drive.google.com/file/d/1L2HStJgfRfsqzkDw9gGpnrVu5vlM_VAq/view?usp=sharing)
+
 Thank you to Jordon Brinkley for playing through for the video. 
 
 README created using Template from [PurpleBooth](https://github.com/PurpleBooth)
